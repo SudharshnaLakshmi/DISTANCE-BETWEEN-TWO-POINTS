@@ -8,7 +8,7 @@ Import the numpy module to use the built-in functions for calculation.
 ### Step 2: 
 Prepare the lists for each linear equations and assign array in np.sqrt(). 
 ### Step 3: 
-Substitute the values in the distance formula ![Formula](./images/Formula.png)
+Substitute the values in the distance formula ![Formula](./images/Frmula.png)
 ### Step 4: 
 End the program.
 ### Step 5: 
